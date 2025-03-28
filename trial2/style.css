@@ -1,0 +1,28 @@
+/* nav{
+    border: 2px solid blue;
+    padding: 1px;
+} */
+
+th{
+    border: 2px solid green;
+    padding: 1px;
+}
+td{
+    border: 2px solid orange;
+    padding: 1px;
+}
+body{
+    align-content: center;
+}
+td,body{
+    text-align: center;
+}
+.Contact{
+    text-align: center;
+    align-items: center;
+    margin-left: 400px;
+}
+/* strong{
+    border: 2px solid burlywood;
+    padding: 1pcx;
+} */
